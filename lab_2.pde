@@ -1,9 +1,6 @@
 /*******************************************************************/
 /* Project: Memory Game
-/* Author: Jacob Sifkovits  
-/* Email: jacobsif@buffalo.edu
-/* Date of completion: 10/15/2015
-/* Course: CSE113 Fall 2015 
+/* Author: Jacob Sifkovits
 /**************************************************************/
 
 //declare variables
